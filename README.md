@@ -32,4 +32,6 @@ $ make check
 
 ## Результат тестів
 
-Усі 39 тестів проходять, 90/90 балів за тести (див. [`screenshots/`](screenshots/)).
+Усі 39 тестів проходять, 90/90 балів за тести (див. [`screenshots/tests-passed.png`](screenshots/tests-passed.png))
+
+![Результат тестів](screenshots/tests-passed.png).
