@@ -1,0 +1,7 @@
+*.o
+*.so
+tests/snippets/*
+!tests/snippets/*.c
+!tests/snippets/*.h
+!tests/snippets/.gitignore
+utils/*.o
